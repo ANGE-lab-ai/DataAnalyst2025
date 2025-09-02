@@ -1,0 +1,11 @@
+ministere,departement,budget_2024,depenses_2024,ecart
+"Finances","Controle financier",500000,475000,25000
+"Finances","Informatique",300000,320000,-20000
+"Mines","Planification",450000,440000,10000
+"Mines","Audit",250000,260000,-10000
+"Education","Primaire",800000,790000,10000
+"Education","Secondaire",700000,720000,-20000
+"Sante","Hopitaux",900000,880000,20000
+"Sante","Prevention",350000,370000,-20000
+"Defense","Equipement",600000,590000,10000
+"Defense","Personnel",550000,560000,-10000
