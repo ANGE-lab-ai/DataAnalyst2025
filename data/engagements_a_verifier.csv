@@ -1,0 +1,7 @@
+id_demande,ministere,programme,compte_budgetaire,montant,type_depense,procedure_utilisee
+DEM_001,Education,Programme 1,657112,4500000,Investissement,DSP
+DEM_002,Sante,Programme 3,601111,1200000,Fonctionnement,DAO
+DEM_003,Education,Programme 2,601100,850000,Fonctionnement,DSP
+DEM_004,Defense,Programme 1,734111,9500000,Investissement,DAF
+DEM_005,Sante,Programme 3,601111,500000,Fonctionnement,DSP
+DEM_006,Education,Programme 1,657112,2000000,Investissement,DAO

@@ -1,0 +1,7 @@
+﻿id_demande,ministere,compte_budgetaire,montant,type_depense,procedure_utilisee,anomalies,est_valide
+DEM_001,Education,657112,4500000,Investissement,DSP,,True
+DEM_002,Sante,601111,1200000,Fonctionnement,DAO,Procédure lourde (DAO/DAF) pour montant < 5M. ,False
+DEM_003,Education,601100,850000,Fonctionnement,DSP,,True
+DEM_004,Defense,734111,9500000,Investissement,DAF,,True
+DEM_005,Sante,601111,500000,Fonctionnement,DSP,,True
+DEM_006,Education,657112,2000000,Investissement,DAO,Procédure lourde (DAO/DAF) pour montant < 5M. ,False
